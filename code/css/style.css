@@ -152,7 +152,7 @@ body {
 
 /* Add Responsive Layout */
 @media screen and (max-width: 768px) {
-  .slider-content {
+  .slide-content {
     margin: 0 10px;
   }
 
