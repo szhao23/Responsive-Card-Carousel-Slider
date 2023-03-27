@@ -10,7 +10,7 @@ const swiper = new Swiper(".slider-content", {
     clickable: true,
     dynamicBullets: true,
   },
-  navigiation: {
+  navigation: {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev",
   },
